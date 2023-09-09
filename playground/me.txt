@@ -1,6 +1,0 @@
-{{#user}}
-Name: Amit Tripathi
-Skills: HTML, CSS, JAVASCRIPT, REACTJS, NODEJS, EXPRESS, SQL, MONGOB
-Email: tripathiamit2021@gmail.com
-{{/user}}
-
